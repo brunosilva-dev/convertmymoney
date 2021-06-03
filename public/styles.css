@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  background-color: #F1C42B;
+}
+
+h1 img {
+  width: 489px;
+  margin: 20px;
+}
+
+h1 img:hover{
+  padding-left: 2px;
+}
+
+input {
+  border: 1px solid #555;
+  border-radius: 10px;
+  background: #fdfdfd;
+  font-size: 20px;
+  padding: 10px;
+  margin: 4px;
+}
+
+button {
+  border: 1px solid #555;
+  border-radius: 10px;
+  background: #ea5456;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #8eefaf;
+  color: #000;
+}
+
+.result {
+  padding: 10px;
+  border: 1px solid #d8d8d8;
+  background: #F1C47a;
+  font-size: 20px;
+}
